@@ -1325,3 +1325,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.04-13.21.52:417][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.06.04-13.21.52:418][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
 [2022.06.04-13.21.52:465][217]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.06.04-13.22.33:076][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.06.04-13.22.42:555][532]LogSlate: Window 'Save Content' being destroyed
+[2022.06.04-13.22.42:589][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.06.04-13.22.42:654][533]LogSavePackage: Moving '../../../../../Github_Projects/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/FirstPersonExampleMap_Auto2F3B609854FF8DBF9AE202CBB638F2D08.tmp' to '../../../../../Github_Projects/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2022.06.04-13.22.42:655][533]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.070
+[2022.06.04-13.22.42:655][533]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.070
+[2022.06.04-13.22.44:237][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.06.04-13.22.44:300][702]LogSavePackage: Moving '../../../../../Github_Projects/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/FirstPersonExampleMap9C22B7A94116A807CE187DBD6EA69C15.tmp' to '../../../../../Github_Projects/CombatMap_LevelDesign/CombatMap_LevelDesign/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.06.04-13.22.44:320][702]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.06.04-13.22.44:320][702]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
