@@ -2618,3 +2618,597 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.04-11.24.02:612][871]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.04-11.24.02:612][871]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2022.06.04-11.24.02:612][871]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.06.04-11.24.22:551][291]Cmd: TRANSACTION UNDO
+[2022.06.04-11.24.22:551][291]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.25.11:416][ 54]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.04-11.26.13:734][360]Cmd: MODE ROTGRID=0
+[2022.06.04-11.27.03:394][519]LogActorFactory: Actor Factory created Cube
+[2022.06.04-11.27.04:223][568]LogActorFactory: Actor Factory created Cube
+[2022.06.04-11.27.05:281][627]LogActorFactory: Actor Factory created Cube
+[2022.06.04-11.27.06:980][728]LogActorFactory: Actor Factory created Cube
+[2022.06.04-11.27.08:351][805]Cmd: MODE GRID=1
+[2022.06.04-11.27.11:525][995]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.04-11.27.25:993][859]Cmd: DELETE
+[2022.06.04-11.27.25:994][859]Cmd: ACTOR DELETE
+[2022.06.04-11.27.26:029][859]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.04-11.27.26:046][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.06.04-11.27.26:054][859]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.06.04-11.27.26:750][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.06.04-11.27.27:127][922]Cmd: DELETE
+[2022.06.04-11.27.27:127][922]Cmd: ACTOR DELETE
+[2022.06.04-11.27.27:142][922]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.04-11.27.27:147][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.06.04-11.27.27:148][922]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.06.04-11.27.52:474][421]Cmd: DELETE
+[2022.06.04-11.27.52:474][421]Cmd: ACTOR DELETE
+[2022.06.04-11.27.52:494][421]LogEditorActor: Deleted Actor: Brush
+[2022.06.04-11.27.52:501][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.06.04-11.27.52:536][421]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2022.06.04-11.27.53:071][450]Cmd: DELETE
+[2022.06.04-11.27.53:071][450]Cmd: ACTOR DELETE
+[2022.06.04-11.27.53:090][450]LogEditorActor: Deleted Actor: Brush
+[2022.06.04-11.27.53:097][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.06.04-11.27.53:128][450]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2022.06.04-11.28.19:582][ 31]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.06.04-11.28.35:675][981]Cmd: TRANSACTION UNDO
+[2022.06.04-11.28.35:675][981]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.04-11.29.14:151][226]Cmd: TRANSACTION UNDO
+[2022.06.04-11.29.14:151][226]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.29.14:471][233]Cmd: TRANSACTION UNDO
+[2022.06.04-11.29.14:471][233]LogEditorTransaction: Undo Scale Actors
+[2022.06.04-11.29.14:989][254]Cmd: TRANSACTION UNDO
+[2022.06.04-11.29.14:989][254]LogEditorTransaction: Undo Scale Actors
+[2022.06.04-11.29.15:861][302]Cmd: TRANSACTION UNDO
+[2022.06.04-11.29.15:861][302]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.29.56:406][703]Cmd: TRANSACTION UNDO
+[2022.06.04-11.29.56:407][703]LogEditorTransaction: Undo Scale Actors
+[2022.06.04-11.30.23:401][290]Cmd: EDIT COPY
+[2022.06.04-11.30.23:668][306]Cmd: EDIT PASTE
+[2022.06.04-11.30.53:131][ 50]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.06.04-11.31.23:372][838]Cmd: DELETE
+[2022.06.04-11.31.23:372][838]Cmd: ACTOR DELETE
+[2022.06.04-11.31.23:412][838]LogEditorActor: Deleted Actor: Brush
+[2022.06.04-11.31.23:427][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.06.04-11.31.23:464][838]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2022.06.04-11.32.19:432][159]LogGeometryMode: Warning: Unable to find BoxBrush20 Brush(s) in new BSP
+[2022.06.04-11.32.19:432][159]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.32.40:784][426]Cmd: EDIT COPY
+[2022.06.04-11.32.42:083][504]Cmd: EDIT PASTE
+[2022.06.04-11.32.45:846][719]Cmd: EDIT COPY
+[2022.06.04-11.32.46:063][732]Cmd: EDIT PASTE
+[2022.06.04-11.33.05:276][852]Cmd: EDIT COPY
+[2022.06.04-11.33.05:510][866]Cmd: EDIT PASTE
+[2022.06.04-11.33.46:520][285]Cmd: TRANSACTION UNDO
+[2022.06.04-11.33.46:520][285]LogEditorTransaction: Undo Scale Actors
+[2022.06.04-11.33.56:450][849]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.06.04-11.34.04:898][342]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.04-11.34.10:781][685]Cmd: DELETE
+[2022.06.04-11.34.10:831][685]Cmd: ACTOR DELETE
+[2022.06.04-11.34.10:884][685]LogEditorActor: Deleted Actor: Brush
+[2022.06.04-11.34.10:902][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.06.04-11.34.10:939][685]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2022.06.04-11.34.19:499][195]Cmd: DELETE
+[2022.06.04-11.34.19:552][195]Cmd: ACTOR DELETE
+[2022.06.04-11.34.19:592][195]LogEditorActor: Deleted Actor: Brush
+[2022.06.04-11.34.19:604][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.06.04-11.34.19:640][195]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2022.06.04-11.34.24:299][473]Cmd: TRANSACTION UNDO
+[2022.06.04-11.34.24:299][473]LogEditorTransaction: Undo Delete Actors
+[2022.06.04-11.34.39:010][322]Cmd: TRANSACTION UNDO
+[2022.06.04-11.34.39:010][322]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.35.12:961][306]Cmd: TRANSACTION UNDO
+[2022.06.04-11.35.12:961][306]LogEditorTransaction: Undo Scale Actors
+[2022.06.04-11.35.34:331][545]LogGeometryMode: Warning: Unable to find BoxBrush25 Brush(s) in new BSP
+[2022.06.04-11.35.34:331][545]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.36.55:355][321]LogGeometryMode: Warning: Unable to find BoxBrush21_36 Brush(s) in new BSP
+[2022.06.04-11.36.55:355][321]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.37.07:527][ 43]Cmd: EDIT COPY
+[2022.06.04-11.37.07:828][ 61]Cmd: EDIT PASTE
+[2022.06.04-11.37.40:348][970]Cmd: TRANSACTION UNDO
+[2022.06.04-11.37.40:348][970]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.37.40:394][970]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.06.04-11.37.40:394][970]LogGeometryMode: Warning: Unable to resolve BoxBrush29 Brush in new BSP, see above
+[2022.06.04-11.37.40:394][970]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.37.45:496][252]Cmd: TRANSACTION UNDO
+[2022.06.04-11.37.45:496][252]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.37.45:545][252]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.06.04-11.37.45:546][252]LogGeometryMode: Warning: Unable to resolve BoxBrush29 Brush in new BSP, see above
+[2022.06.04-11.37.45:546][252]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.38.08:274][588]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush29)
+[2022.06.04-11.38.15:316][  2]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush29)
+[2022.06.04-11.38.17:715][139]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2022.06.04-11.38.17:715][139]LogGeometryMode: Warning: Unable to resolve BoxBrush29 Brush in new BSP, see above
+[2022.06.04-11.38.17:715][139]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.39.25:079][138]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.04-11.40.10:797][841]Cmd: TRANSACTION UNDO
+[2022.06.04-11.40.10:797][841]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.04-11.40.11:331][856]Cmd: TRANSACTION UNDO
+[2022.06.04-11.40.11:331][856]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.40.11:376][856]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.06.04-11.40.11:376][856]LogGeometryMode: Warning: Unable to resolve BoxBrush22 Brush in new BSP, see above
+[2022.06.04-11.40.11:377][856]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.40.36:201][316]LogGeometryMode: Warning: Unable to find BoxBrush25 Brush(s) in new BSP
+[2022.06.04-11.40.36:201][316]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.40.39:698][500]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.04-11.40.44:170][764]LogGeometryMode: Warning: Unable to find BoxBrush22 Brush(s) in new BSP
+[2022.06.04-11.40.44:170][764]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.41.28:889][408]LogGeometryMode: Warning: Unable to find BoxBrush28 Brush(s) in new BSP
+[2022.06.04-11.41.28:890][408]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.41.55:954][ 14]LogGeometryMode: Warning: Unable to find BoxBrush23_44 Brush(s) in new BSP
+[2022.06.04-11.41.55:954][ 14]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.41.58:381][157]Cmd: TRANSACTION UNDO
+[2022.06.04-11.41.58:381][157]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.04-11.42.05:101][540]Cmd: TRANSACTION UNDO
+[2022.06.04-11.42.05:101][540]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.42.05:152][540]LogGeometryMode: Warning: Unable to find 4 Vertex(s) in new BSP
+[2022.06.04-11.42.05:152][540]LogGeometryMode: Warning: Unable to resolve BoxBrush29 Brush in new BSP, see above
+[2022.06.04-11.42.05:152][540]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.42.06:131][583]Cmd: TRANSACTION UNDO
+[2022.06.04-11.42.06:131][583]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.42.06:173][583]LogGeometryMode: Warning: Unable to find 4 Vertex(s) in new BSP
+[2022.06.04-11.42.06:173][583]LogGeometryMode: Warning: Unable to resolve BoxBrush29 Brush in new BSP, see above
+[2022.06.04-11.42.06:173][583]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.42.34:431][250]LogGeometryMode: Warning: Unable to find BoxBrush23_44 Brush(s) in new BSP
+[2022.06.04-11.42.34:431][250]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.43.04:294][ 34]LogGeometryMode: Warning: Unable to find BoxBrush21_36 Brush(s) in new BSP
+[2022.06.04-11.43.04:294][ 34]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.43.47:230][588]Cmd: DELETE
+[2022.06.04-11.43.47:283][588]Cmd: ACTOR DELETE
+[2022.06.04-11.43.47:357][588]LogEditorActor: Deleted Actor: Brush
+[2022.06.04-11.43.47:389][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.06.04-11.43.47:425][588]LogEditorActor: Deleted 1 Actors (0.142 secs)
+[2022.06.04-11.44.27:387][958]Cmd: TRANSACTION UNDO
+[2022.06.04-11.44.27:387][958]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-11.44.28:630][ 16]Cmd: TRANSACTION UNDO
+[2022.06.04-11.44.28:630][ 16]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.44.28:684][ 16]LogGeometryMode: Warning: Unable to find 6 Vertex(s) in new BSP
+[2022.06.04-11.44.28:684][ 16]LogGeometryMode: Warning: Unable to resolve BoxBrush29 Brush in new BSP, see above
+[2022.06.04-11.44.28:684][ 16]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.45.22:393][189]LogGeometryMode: Warning: Unable to find BoxBrush28 Brush(s) in new BSP
+[2022.06.04-11.45.22:393][189]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.45.33:489][847]Cmd: TRANSACTION UNDO
+[2022.06.04-11.45.33:489][847]LogEditorTransaction: Undo Clicking on Actors
+[2022.06.04-11.45.34:852][912]LogGeometryMode: Warning: Unable to find BoxBrush23_44 Brush(s) in new BSP
+[2022.06.04-11.45.34:852][912]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.45.35:378][943]Cmd: EDIT COPY
+[2022.06.04-11.45.35:613][957]Cmd: EDIT PASTE
+[2022.06.04-11.45.46:877][614]Cmd: TRANSACTION UNDO
+[2022.06.04-11.45.46:877][614]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-11.46.00:725][423]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.04-11.46.21:481][654]Cmd: DELETE
+[2022.06.04-11.46.21:537][654]Cmd: ACTOR DELETE
+[2022.06.04-11.46.21:582][654]LogEditorActor: Deleted Actor: Brush
+[2022.06.04-11.46.21:600][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.06.04-11.46.21:638][654]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2022.06.04-11.46.29:889][147]Cmd: EDIT COPY
+[2022.06.04-11.46.30:145][162]Cmd: EDIT PASTE
+[2022.06.04-11.46.52:278][442]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2022.06.04-11.46.52:278][442]LogGeometryMode: Warning: Unable to resolve BoxBrush31 Brush in new BSP, see above
+[2022.06.04-11.46.52:278][442]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.46.53:123][489]Cmd: TRANSACTION UNDO
+[2022.06.04-11.46.53:123][489]LogEditorTransaction: Undo Modifier [Split]
+[2022.06.04-11.46.57:078][705]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2022.06.04-11.46.57:078][705]LogGeometryMode: Warning: Unable to resolve BoxBrush31 Brush in new BSP, see above
+[2022.06.04-11.46.57:078][705]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.47.16:134][837]Cmd: TRANSACTION UNDO
+[2022.06.04-11.47.16:134][837]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.47.16:178][837]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.06.04-11.47.16:178][837]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2022.06.04-11.47.16:178][837]LogGeometryMode: Warning: Unable to resolve BoxBrush31 Brush in new BSP, see above
+[2022.06.04-11.47.16:178][837]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.48.17:794][496]LogGeometryMode: Warning: Unable to find BoxBrush30 Brush(s) in new BSP
+[2022.06.04-11.48.17:794][496]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.48.20:447][654]Cmd: EDIT COPY
+[2022.06.04-11.48.20:664][667]Cmd: EDIT PASTE
+[2022.06.04-11.49.21:785][310]LogGeometryMode: Warning: Unable to find BoxBrush25 Brush(s) in new BSP
+[2022.06.04-11.49.21:785][310]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.49.54:569][127]Cmd: TRANSACTION UNDO
+[2022.06.04-11.49.54:569][127]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.04-11.50.02:360][540]Cmd: TRANSACTION UNDO
+[2022.06.04-11.50.02:361][540]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.04-11.50.02:880][554]Cmd: TRANSACTION UNDO
+[2022.06.04-11.50.02:880][554]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-11.50.03:269][576]Cmd: TRANSACTION UNDO
+[2022.06.04-11.50.03:269][576]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-11.50.03:572][593]Cmd: TRANSACTION UNDO
+[2022.06.04-11.50.03:572][593]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-11.50.17:941][418]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2022.06.04-11.50.27:273][919]Cmd: TRANSACTION UNDO
+[2022.06.04-11.50.27:273][919]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.50.27:324][919]LogGeometryMode: Warning: Unable to find 6 Poly(s) in new BSP
+[2022.06.04-11.50.27:324][919]LogGeometryMode: Warning: Unable to resolve BoxBrush25 Brush in new BSP, see above
+[2022.06.04-11.50.27:324][919]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.50.27:711][928]Cmd: TRANSACTION UNDO
+[2022.06.04-11.50.27:711][928]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.50.27:757][928]LogGeometryMode: Warning: Unable to find 6 Poly(s) in new BSP
+[2022.06.04-11.50.27:757][928]LogGeometryMode: Warning: Unable to resolve BoxBrush25 Brush in new BSP, see above
+[2022.06.04-11.50.27:758][928]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.50.46:343][994]LogGeometryMode: Warning: Unable to find BoxBrush32 Brush(s) in new BSP
+[2022.06.04-11.50.46:343][994]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.52.00:160][365]Cmd: TRANSACTION UNDO
+[2022.06.04-11.52.00:160][365]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.52.00:207][365]LogGeometryMode: Warning: Unable to find 4 Vertex(s) in new BSP
+[2022.06.04-11.52.00:207][365]LogGeometryMode: Warning: Unable to resolve BoxBrush32 Brush in new BSP, see above
+[2022.06.04-11.52.00:207][365]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.52.49:927][306]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.06.04-11.52.49:968][306]LogGeometryMode: Warning: Unable to find BoxBrush20 Brush(s) in new BSP
+[2022.06.04-11.52.49:968][306]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.53.03:932][131]LogGeometryMode: Warning: Unable to find BoxBrush28 Brush(s) in new BSP
+[2022.06.04-11.53.03:932][131]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.53.29:219][619]Cmd: TRANSACTION UNDO
+[2022.06.04-11.53.29:219][619]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.53.29:263][619]LogGeometryMode: Warning: Unable to find 4 Vertex(s) in new BSP
+[2022.06.04-11.53.29:263][619]LogGeometryMode: Warning: Unable to resolve BoxBrush20 Brush in new BSP, see above
+[2022.06.04-11.53.29:263][619]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.53.32:507][796]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.04-11.53.34:875][934]LogGeometryMode: Warning: Unable to find BoxBrush20 Brush(s) in new BSP
+[2022.06.04-11.53.34:875][934]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.53.43:467][440]Cmd: TRANSACTION UNDO
+[2022.06.04-11.53.43:467][440]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-11.54.01:051][472]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush30)
+[2022.06.04-11.54.01:769][515]LogGeometryMode: Warning: Unable to find BoxBrush23_44 Brush(s) in new BSP
+[2022.06.04-11.54.01:769][515]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.54.16:006][359]LogGeometryMode: Warning: Unable to find BoxBrush20 Brush(s) in new BSP
+[2022.06.04-11.54.16:007][359]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.54.31:145][258]LogGeometryMode: Warning: Unable to find BoxBrush32 Brush(s) in new BSP
+[2022.06.04-11.54.31:145][258]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.54.37:103][611]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush32)
+[2022.06.04-11.54.41:280][852]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.06.04-11.54.41:320][852]LogGeometryMode: Warning: Unable to find BoxBrush22_51 Brush(s) in new BSP
+[2022.06.04-11.54.41:320][852]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.55.00:683][996]LogGeometryMode: Warning: Unable to find BoxBrush32 Brush(s) in new BSP
+[2022.06.04-11.55.00:684][996]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.55.25:678][473]LogGeometryMode: Warning: Unable to find BoxBrush22_51 Brush(s) in new BSP
+[2022.06.04-11.55.25:678][473]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.55.30:808][777]Cmd: TRANSACTION UNDO
+[2022.06.04-11.55.30:808][777]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-11.55.31:141][786]Cmd: TRANSACTION UNDO
+[2022.06.04-11.55.31:141][786]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-11.55.31:891][824]Cmd: TRANSACTION UNDO
+[2022.06.04-11.55.31:891][824]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.04-11.55.32:242][841]Cmd: TRANSACTION UNDO
+[2022.06.04-11.55.32:242][841]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-11.55.32:637][863]Cmd: TRANSACTION UNDO
+[2022.06.04-11.55.32:637][863]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-11.55.32:904][878]Cmd: TRANSACTION UNDO
+[2022.06.04-11.55.32:904][878]LogEditorTransaction: Undo Edit Brush Type
+[2022.06.04-11.55.33:824][929]Cmd: TRANSACTION UNDO
+[2022.06.04-11.55.33:824][929]LogEditorTransaction: Undo Clicking on Actors
+[2022.06.04-11.55.34:206][950]Cmd: TRANSACTION UNDO
+[2022.06.04-11.55.34:206][950]LogEditorTransaction: Undo Clicking on Actors
+[2022.06.04-11.55.34:206][950]LogGeometryMode: Warning: Unable to find BoxBrush30 Brush(s) in new BSP
+[2022.06.04-11.55.34:206][950]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.55.38:084][179]Cmd: DELETE
+[2022.06.04-11.55.38:142][179]Cmd: ACTOR DELETE
+[2022.06.04-11.55.38:207][179]LogEditorActor: Deleted Actor: Brush
+[2022.06.04-11.55.38:234][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.06.04-11.55.38:276][179]LogEditorActor: Deleted 1 Actors (0.133 secs)
+[2022.06.04-11.55.50:056][876]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2022.06.04-11.56.04:184][717]LogGeometryMode: Warning: Unable to find BoxBrush20 Brush(s) in new BSP
+[2022.06.04-11.56.04:184][717]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.56.12:686][217]Cmd: TRANSACTION UNDO
+[2022.06.04-11.56.12:686][217]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.56.12:741][217]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.06.04-11.56.12:741][217]LogGeometryMode: Warning: Unable to resolve BoxBrush20 Brush in new BSP, see above
+[2022.06.04-11.56.12:741][217]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.56.17:374][461]Cmd: TRANSACTION UNDO
+[2022.06.04-11.56.17:374][461]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.56.17:419][461]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.06.04-11.56.17:419][461]LogGeometryMode: Warning: Unable to resolve BoxBrush20 Brush in new BSP, see above
+[2022.06.04-11.56.17:419][461]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.56.27:071][  5]Cmd: TRANSACTION UNDO
+[2022.06.04-11.56.27:071][  5]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.56.27:121][  5]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.06.04-11.56.27:121][  5]LogGeometryMode: Warning: Unable to resolve BoxBrush20 Brush in new BSP, see above
+[2022.06.04-11.56.27:121][  5]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.56.32:536][307]Cmd: EDIT COPY
+[2022.06.04-11.56.32:756][320]Cmd: EDIT PASTE
+[2022.06.04-11.57.04:844][219]Cmd: TRANSACTION UNDO
+[2022.06.04-11.57.04:844][219]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-11.57.13:826][730]Cmd: TRANSACTION UNDO
+[2022.06.04-11.57.13:826][730]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.57.13:877][730]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2022.06.04-11.57.13:878][730]LogGeometryMode: Warning: Unable to resolve BoxBrush20 Brush in new BSP, see above
+[2022.06.04-11.57.13:878][730]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.57.14:161][736]Cmd: TRANSACTION UNDO
+[2022.06.04-11.57.14:161][736]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.57.14:206][736]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2022.06.04-11.57.14:206][736]LogGeometryMode: Warning: Unable to resolve BoxBrush20 Brush in new BSP, see above
+[2022.06.04-11.57.14:206][736]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.57.14:492][747]Cmd: TRANSACTION UNDO
+[2022.06.04-11.57.14:492][747]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-11.57.14:958][771]Cmd: TRANSACTION UNDO
+[2022.06.04-11.57.14:959][771]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-11.57.28:949][596]LogGeometryMode: Warning: Unable to find BoxBrush22 Brush(s) in new BSP
+[2022.06.04-11.57.28:949][596]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.57.29:963][655]Cmd: DELETE
+[2022.06.04-11.57.30:017][655]Cmd: ACTOR DELETE
+[2022.06.04-11.57.30:055][655]LogEditorActor: Deleted Actor: Brush
+[2022.06.04-11.57.30:069][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.06.04-11.57.30:111][655]LogEditorActor: Deleted 1 Actors (0.094 secs)
+[2022.06.04-11.57.41:922][354]Cmd: TRANSACTION UNDO
+[2022.06.04-11.57.41:922][354]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.57.41:973][354]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.06.04-11.57.41:973][354]LogGeometryMode: Warning: Unable to resolve BoxBrush32 Brush in new BSP, see above
+[2022.06.04-11.57.41:973][354]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.57.43:274][410]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2022.06.04-11.57.57:862][270]LogGeometryMode: Warning: Unable to find BoxBrush25 Brush(s) in new BSP
+[2022.06.04-11.57.57:862][270]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.58.07:501][819]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2022.06.04-11.58.07:501][819]LogGeometryMode: Warning: Unable to resolve BoxBrush32 Brush in new BSP, see above
+[2022.06.04-11.58.07:501][819]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.58.13:314][148]Cmd: TRANSACTION UNDO
+[2022.06.04-11.58.13:314][148]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.58.20:584][555]Cmd: TRANSACTION UNDO
+[2022.06.04-11.58.20:584][555]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.58.23:683][718]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.06.04-11.58.23:683][718]LogGeometryMode: Warning: Unable to resolve BoxBrush32 Brush in new BSP, see above
+[2022.06.04-11.58.23:683][718]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-11.58.30:421][103]Cmd: TRANSACTION UNDO
+[2022.06.04-11.58.30:421][103]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.59.57:095][246]Cmd: TRANSACTION UNDO
+[2022.06.04-11.59.57:095][246]LogEditorTransaction: Undo Move Actors
+[2022.06.04-11.59.57:138][246]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2022.06.04-11.59.57:138][246]LogGeometryMode: Warning: Unable to resolve BoxBrush32 Brush in new BSP, see above
+[2022.06.04-11.59.57:138][246]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.00.04:845][692]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.04-12.00.49:495][156]Cmd: TRANSACTION UNDO
+[2022.06.04-12.00.49:495][156]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-12.00.59:194][688]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.04-12.01.02:726][860]Cmd: TRANSACTION UNDO
+[2022.06.04-12.01.02:726][860]LogEditorTransaction: Undo Move Actors
+[2022.06.04-12.01.02:778][860]LogGeometryMode: Warning: Unable to find 24 Vertex(s) in new BSP
+[2022.06.04-12.01.02:778][860]LogGeometryMode: Warning: Unable to resolve BoxBrush25 Brush in new BSP, see above
+[2022.06.04-12.01.02:778][860]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.01.25:028][ 57]LogGeometryMode: Warning: Unable to find BoxBrush32 Brush(s) in new BSP
+[2022.06.04-12.01.25:029][ 57]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.01.34:750][598]Cmd: TRANSACTION UNDO
+[2022.06.04-12.01.34:750][598]LogEditorTransaction: Undo Move Actors
+[2022.06.04-12.02.15:671][998]Cmd: TRANSACTION UNDO
+[2022.06.04-12.02.15:671][998]LogEditorTransaction: Undo Move Actors
+[2022.06.04-12.02.15:716][998]LogGeometryMode: Warning: Unable to find 7 Vertex(s) in new BSP
+[2022.06.04-12.02.15:716][998]LogGeometryMode: Warning: Unable to resolve BoxBrush32 Brush in new BSP, see above
+[2022.06.04-12.02.15:716][998]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.03.05:978][974]Cmd: TRANSACTION UNDO
+[2022.06.04-12.03.05:978][974]LogEditorTransaction: Undo Move Actors
+[2022.06.04-12.03.06:034][974]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2022.06.04-12.03.06:034][974]LogGeometryMode: Warning: Unable to resolve BoxBrush32 Brush in new BSP, see above
+[2022.06.04-12.03.06:034][974]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.03.06:572][985]Cmd: TRANSACTION UNDO
+[2022.06.04-12.03.06:572][985]LogEditorTransaction: Undo Move Actors
+[2022.06.04-12.03.06:616][985]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2022.06.04-12.03.06:616][985]LogGeometryMode: Warning: Unable to resolve BoxBrush32 Brush in new BSP, see above
+[2022.06.04-12.03.06:616][985]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.03.47:592][415]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.06.04-12.03.47:632][415]LogGeometryMode: Warning: Unable to find BoxBrush22_54 Brush(s) in new BSP
+[2022.06.04-12.03.47:632][415]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.04.35:866][270]LogGeometryMode: Warning: Unable to find BoxBrush25 Brush(s) in new BSP
+[2022.06.04-12.04.35:866][270]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.04.39:702][477]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.04-12.05.37:815][918]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.06.04-12.05.37:857][918]LogGeometryMode: Warning: Unable to find BoxBrush29 Brush(s) in new BSP
+[2022.06.04-12.05.37:857][918]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.07.41:321][242]LogGeometryMode: Warning: Unable to find BoxBrush29 Brush(s) in new BSP
+[2022.06.04-12.07.41:321][242]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.07.47:888][633]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.04-12.08.25:841][873]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.06.04-12.08.28:970][ 53]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.04-12.09.29:230][603]LogGeometryMode: Warning: Unable to find BoxBrush37 Brush(s) in new BSP
+[2022.06.04-12.09.29:230][603]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.09.36:750][ 50]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.04-12.09.40:758][280]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.06.04-12.09.45:341][550]Cmd: DELETE
+[2022.06.04-12.09.45:402][550]Cmd: ACTOR DELETE
+[2022.06.04-12.09.45:473][550]LogEditorActor: Deleted Actor: Brush
+[2022.06.04-12.09.45:504][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.06.04-12.09.45:545][550]LogEditorActor: Deleted 1 Actors (0.142 secs)
+[2022.06.04-12.09.49:895][798]Cmd: DELETE
+[2022.06.04-12.09.49:961][798]Cmd: ACTOR DELETE
+[2022.06.04-12.09.49:994][798]LogEditorActor: Deleted Actor: Brush
+[2022.06.04-12.09.50:005][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.06.04-12.09.50:032][798]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2022.06.04-12.09.51:433][882]Cmd: TRANSACTION UNDO
+[2022.06.04-12.09.51:433][882]LogEditorTransaction: Undo Delete Actors
+[2022.06.04-12.09.52:335][916]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush25)
+[2022.06.04-12.09.53:294][973]Cmd: DELETE
+[2022.06.04-12.09.53:298][973]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.06.04-12.09.53:298][973]LogGeometryMode: Warning: Unable to resolve BoxBrush25 Brush in new BSP, see above
+[2022.06.04-12.09.53:298][973]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.09.55:115][ 75]LogGeometryMode: Warning: Unable to find BoxBrush22_54 Brush(s) in new BSP
+[2022.06.04-12.09.55:116][ 75]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.09.57:530][210]Cmd: DELETE
+[2022.06.04-12.09.57:595][210]Cmd: ACTOR DELETE
+[2022.06.04-12.09.57:628][210]LogEditorActor: Deleted Actor: Brush
+[2022.06.04-12.09.57:638][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.06.04-12.09.57:668][210]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2022.06.04-12.09.58:848][280]Cmd: TRANSACTION UNDO
+[2022.06.04-12.09.58:848][280]LogEditorTransaction: Undo Delete Actors
+[2022.06.04-12.10.00:670][369]Cmd: DELETE
+[2022.06.04-12.10.00:674][369]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.06.04-12.10.00:674][369]LogGeometryMode: Warning: Unable to resolve BoxBrush25 Brush in new BSP, see above
+[2022.06.04-12.10.00:674][369]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.10.06:534][709]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.06:534][709]LogEditorTransaction: Undo Modifier [Delete]
+[2022.06.04-12.10.07:119][723]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.07:119][723]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-12.10.10:092][874]Cmd: DELETE
+[2022.06.04-12.10.10:096][874]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.06.04-12.10.10:096][874]LogGeometryMode: Warning: Unable to resolve BoxBrush25 Brush in new BSP, see above
+[2022.06.04-12.10.10:096][874]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.10.12:684][ 22]Cmd: DELETE
+[2022.06.04-12.10.12:746][ 22]Cmd: ACTOR DELETE
+[2022.06.04-12.10.12:778][ 22]LogEditorActor: Deleted Actor: Brush
+[2022.06.04-12.10.12:790][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.06.04-12.10.12:818][ 22]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2022.06.04-12.10.13:762][ 78]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.13:762][ 78]LogEditorTransaction: Undo Delete Actors
+[2022.06.04-12.10.16:158][199]Cmd: DELETE
+[2022.06.04-12.10.16:220][199]Cmd: ACTOR DELETE
+[2022.06.04-12.10.16:250][199]LogEditorActor: Deleted Actor: Brush
+[2022.06.04-12.10.16:261][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.06.04-12.10.16:288][199]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2022.06.04-12.10.17:284][258]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.17:284][258]LogEditorTransaction: Undo Delete Actors
+[2022.06.04-12.10.20:660][423]Cmd: DELETE
+[2022.06.04-12.10.20:664][423]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.06.04-12.10.20:664][423]LogGeometryMode: Warning: Unable to resolve BoxBrush25 Brush in new BSP, see above
+[2022.06.04-12.10.20:664][423]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.10.27:121][793]Cmd: DELETE
+[2022.06.04-12.10.27:189][793]Cmd: ACTOR DELETE
+[2022.06.04-12.10.27:216][793]LogEditorActor: Deleted Actor: Brush
+[2022.06.04-12.10.27:226][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.06.04-12.10.27:253][793]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2022.06.04-12.10.28:217][850]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.28:217][850]LogEditorTransaction: Undo Delete Actors
+[2022.06.04-12.10.29:083][880]Cmd: EDCALLBACK SURFPROPS
+[2022.06.04-12.10.31:352][  8]Cmd: EDCALLBACK SURFPROPS
+[2022.06.04-12.10.32:542][ 72]Cmd: EDCALLBACK SURFPROPS
+[2022.06.04-12.10.34:601][188]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush25)
+[2022.06.04-12.10.35:167][220]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush25)
+[2022.06.04-12.10.35:660][249]Cmd: DELETE
+[2022.06.04-12.10.35:664][249]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.06.04-12.10.35:664][249]LogGeometryMode: Warning: Unable to resolve BoxBrush25 Brush in new BSP, see above
+[2022.06.04-12.10.35:664][249]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.10.36:361][284]Cmd: EDCALLBACK SURFPROPS
+[2022.06.04-12.10.38:428][403]Cmd: DELETE
+[2022.06.04-12.10.38:432][403]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.06.04-12.10.38:432][403]LogGeometryMode: Warning: Unable to resolve BoxBrush25 Brush in new BSP, see above
+[2022.06.04-12.10.38:432][403]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.10.48:237][981]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.48:237][981]LogEditorTransaction: Undo Modifier [Delete]
+[2022.06.04-12.10.48:469][983]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.48:469][983]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-12.10.48:670][986]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.48:670][986]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.04-12.10.48:841][992]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.48:841][992]LogEditorTransaction: Undo Select Surface
+[2022.06.04-12.10.49:049][998]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.49:049][998]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-12.10.49:222][  5]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.49:222][  5]LogEditorTransaction: Undo Modifier [Delete]
+[2022.06.04-12.10.49:424][ 10]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.49:424][ 10]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-12.10.49:608][ 17]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.49:608][ 17]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.04-12.10.49:791][ 23]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.49:791][ 23]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-12.10.50:007][ 33]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.50:008][ 33]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.04-12.10.50:221][ 43]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.50:221][ 43]LogEditorTransaction: Undo Select Surface
+[2022.06.04-12.10.50:422][ 50]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.50:422][ 50]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.04-12.10.50:637][ 59]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.50:637][ 59]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.04-12.10.50:828][ 69]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.50:828][ 69]LogEditorTransaction: Undo Select Surface
+[2022.06.04-12.10.51:042][ 78]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.51:042][ 78]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.04-12.10.51:239][ 86]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.51:239][ 86]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.04-12.10.51:430][ 96]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.51:431][ 96]LogEditorTransaction: Undo Select Surface
+[2022.06.04-12.10.51:649][106]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.51:649][106]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-12.10.51:851][116]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.51:852][116]LogEditorTransaction: Undo Modifier [Delete]
+[2022.06.04-12.10.52:051][122]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.52:051][122]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.04-12.10.52:248][130]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.52:248][130]LogEditorTransaction: Undo Modifier [Delete]
+[2022.06.04-12.10.52:435][136]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.52:435][136]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-12.10.52:632][146]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.52:632][146]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-12.10.52:833][157]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.52:833][157]LogEditorTransaction: Undo Modifier [Delete]
+[2022.06.04-12.10.53:026][163]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.53:026][163]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-12.10.53:230][173]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.53:230][173]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-12.10.53:416][183]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.53:416][183]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-12.10.53:617][194]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.53:617][194]LogEditorTransaction: Undo Modifier [Delete]
+[2022.06.04-12.10.53:795][199]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.53:795][199]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-12.10.53:964][207]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.53:964][207]LogEditorTransaction: Undo Modifier [Delete]
+[2022.06.04-12.10.54:155][213]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.54:155][213]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-12.10.54:364][223]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.54:364][223]LogEditorTransaction: Undo Scale Actors
+[2022.06.04-12.10.54:536][228]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.54:538][228]LogEditorTransaction: Undo Modifier [Delete]
+[2022.06.04-12.10.54:734][234]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.54:734][234]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.04-12.10.54:935][242]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.54:935][242]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-12.10.55:136][251]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.55:136][251]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.04-12.10.55:341][260]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.55:341][260]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.04-12.10.55:550][270]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.55:550][270]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-12.10.55:785][282]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.55:785][282]LogEditorTransaction: Undo Modifier [Delete]
+[2022.06.04-12.10.55:994][289]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.55:994][289]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-12.10.56:199][299]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.56:199][299]LogEditorTransaction: Undo Modifier [Delete]
+[2022.06.04-12.10.56:861][333]Cmd: TRANSACTION UNDO
+[2022.06.04-12.10.56:861][333]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.04-12.11.00:122][521]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush25)
+[2022.06.04-12.11.01:284][585]Cmd: EDCALLBACK SURFPROPS
+[2022.06.04-12.11.01:940][621]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush25)
+[2022.06.04-12.11.05:779][825]Cmd: EDCALLBACK SURFPROPS
+[2022.06.04-12.11.10:076][ 55]Cmd: DELETE
+[2022.06.04-12.11.10:143][ 55]Cmd: ACTOR DELETE
+[2022.06.04-12.11.10:176][ 55]LogEditorActor: Deleted Actor: Brush
+[2022.06.04-12.11.10:189][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.06.04-12.11.10:221][ 55]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2022.06.04-12.11.11:423][127]Cmd: TRANSACTION UNDO
+[2022.06.04-12.11.11:423][127]LogEditorTransaction: Undo Delete Actors
+[2022.06.04-12.11.12:134][150]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush25)
+[2022.06.04-12.11.13:098][207]Cmd: DELETE
+[2022.06.04-12.11.13:102][207]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.06.04-12.11.13:102][207]LogGeometryMode: Warning: Unable to resolve BoxBrush25 Brush in new BSP, see above
+[2022.06.04-12.11.13:102][207]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.11.14:283][271]Cmd: EDCALLBACK SURFPROPS
+[2022.06.04-12.11.15:939][366]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush25)
+[2022.06.04-12.11.16:532][401]Cmd: DELETE
+[2022.06.04-12.11.16:535][401]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.06.04-12.11.16:535][401]LogGeometryMode: Warning: Unable to resolve BoxBrush25 Brush in new BSP, see above
+[2022.06.04-12.11.16:535][401]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.11.23:753][811]Cmd: EDCALLBACK SURFPROPS
+[2022.06.04-12.11.24:671][862]Cmd: EDCALLBACK SURFPROPS
+[2022.06.04-12.11.25:332][898]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush25)
+[2022.06.04-12.11.26:344][949]Cmd: EDCALLBACK SURFPROPS
+[2022.06.04-12.11.29:309][108]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush25)
+[2022.06.04-12.11.30:397][171]Cmd: DELETE
+[2022.06.04-12.11.30:401][171]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.06.04-12.11.30:401][171]LogGeometryMode: Warning: Unable to resolve BoxBrush25 Brush in new BSP, see above
+[2022.06.04-12.11.30:401][171]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.11.31:210][215]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush25)
+[2022.06.04-12.11.31:787][249]Cmd: DELETE
+[2022.06.04-12.11.31:790][249]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.06.04-12.11.31:790][249]LogGeometryMode: Warning: Unable to resolve BoxBrush25 Brush in new BSP, see above
+[2022.06.04-12.11.31:790][249]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.12.28:265][555]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.04-12.12.40:229][262]Cmd: TRANSACTION UNDO
+[2022.06.04-12.12.40:229][262]LogEditorTransaction: Undo Modifier [Edit]
+[2022.06.04-12.12.54:216][ 75]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.06.04-12.12.54:252][ 75]LogGeometryMode: Warning: Unable to find BoxBrush38_59 Brush(s) in new BSP
+[2022.06.04-12.12.54:252][ 75]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.13.28:462][ 96]LogGeometryMode: Warning: Unable to find BoxBrush22_54 Brush(s) in new BSP
+[2022.06.04-12.13.28:462][ 96]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.13.44:028][ 19]LogGeometryMode: Warning: Unable to find BoxBrush37 Brush(s) in new BSP
+[2022.06.04-12.13.44:028][ 19]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.04-12.13.44:674][ 56]Cmd: EDIT COPY
+[2022.06.04-12.13.45:957][133]Cmd: EDIT PASTE
+[2022.06.04-12.14.03:364][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.06.04-12.14.03:447][150]LogSavePackage: Moving '../../../../../../Users/Albert/Desktop/LD_CombatMap/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/FirstPersonExampleMap40325C044C650B55973C358FE8B8D9A6.tmp' to '../../../../../../Users/Albert/Desktop/LD_CombatMap/CombatMap_LevelDesign/CombatMap_LevelDesign/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.06.04-12.14.04:047][150]LogSavePackage: Moving '../../../../../../Users/Albert/Desktop/LD_CombatMap/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/FirstPersonExampleMap_BuiltDataE50FC22043A2208C31C1BEB37BC5EAB8.tmp' to '../../../../../../Users/Albert/Desktop/LD_CombatMap/CombatMap_LevelDesign/CombatMap_LevelDesign/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.06.04-12.14.04:087][150]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.04-12.14.04:087][150]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.06.04-12.14.04:087][150]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
