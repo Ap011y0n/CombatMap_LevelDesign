@@ -2879,3 +2879,94 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.09-16.11.04:206][708]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2022.06.09-16.11.04:206][708]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2022.06.09-16.12.21:276][478]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight17)
+[2022.06.09-16.13.19:648][350]LogGeometryMode: Warning: Unable to find BoxBrush75 Brush(s) in new BSP
+[2022.06.09-16.13.19:648][350]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.06.09-16.13.20:685][409]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.09-16.13.25:038][658]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.09-16.13.29:391][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConstructionPylons_01f2)
+[2022.06.09-16.13.30:891][998]Cmd: DELETE
+[2022.06.09-16.13.30:891][998]Cmd: ACTOR DELETE
+[2022.06.09-16.13.30:928][998]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-16.13.30:938][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.06.09-16.13.30:942][998]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2022.06.09-16.13.32:017][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConstructionPylons_01f9)
+[2022.06.09-16.13.32:339][ 79]Cmd: DELETE
+[2022.06.09-16.13.32:339][ 79]Cmd: ACTOR DELETE
+[2022.06.09-16.13.32:374][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-16.13.32:381][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.06.09-16.13.32:381][ 79]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.06.09-16.13.33:915][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConstructionPylons_01f5)
+[2022.06.09-16.13.34:195][182]Cmd: DELETE
+[2022.06.09-16.13.34:195][182]Cmd: ACTOR DELETE
+[2022.06.09-16.13.34:228][182]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-16.13.34:236][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.06.09-16.13.34:238][182]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.06.09-16.13.35:095][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConstructionPylons_01f3)
+[2022.06.09-16.13.35:484][253]Cmd: DELETE
+[2022.06.09-16.13.35:484][253]Cmd: ACTOR DELETE
+[2022.06.09-16.13.35:516][253]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-16.13.35:523][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.06.09-16.13.35:525][253]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.06.09-16.13.36:014][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Trafficbarrier_12)
+[2022.06.09-16.13.36:633][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConstructionPylons_01f10)
+[2022.06.09-16.13.37:015][336]Cmd: DELETE
+[2022.06.09-16.13.37:015][336]Cmd: ACTOR DELETE
+[2022.06.09-16.13.37:049][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-16.13.37:056][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.06.09-16.13.37:057][336]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.06.09-16.13.37:883][382]Cmd: DELETE
+[2022.06.09-16.13.37:883][382]Cmd: ACTOR DELETE
+[2022.06.09-16.13.37:922][382]LogEditorActor: Deleted Actor: Brush
+[2022.06.09-16.13.37:929][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.06.09-16.13.38:029][382]LogEditorActor: Deleted 1 Actors (0.146 secs)
+[2022.06.09-16.13.39:377][461]Cmd: TRANSACTION UNDO
+[2022.06.09-16.13.39:378][461]LogEditorTransaction: Undo Delete Actors
+[2022.06.09-16.13.41:388][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConstructionPylons_01f6)
+[2022.06.09-16.13.42:135][595]Cmd: DELETE
+[2022.06.09-16.13.42:135][595]Cmd: ACTOR DELETE
+[2022.06.09-16.13.42:169][595]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-16.13.42:178][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.06.09-16.13.42:181][595]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2022.06.09-16.13.47:263][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConstructionPylons_01f4)
+[2022.06.09-16.13.48:511][911]Cmd: DELETE
+[2022.06.09-16.13.48:511][911]Cmd: ACTOR DELETE
+[2022.06.09-16.13.48:544][911]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-16.13.48:551][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.06.09-16.13.48:553][911]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.06.09-16.13.49:045][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConstructionPylons_01f11)
+[2022.06.09-16.13.49:369][957]Cmd: DELETE
+[2022.06.09-16.13.49:370][957]Cmd: ACTOR DELETE
+[2022.06.09-16.13.49:402][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-16.13.49:410][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.06.09-16.13.49:411][957]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.06.09-16.13.50:937][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConstructionPylons_01f7)
+[2022.06.09-16.13.51:145][ 58]Cmd: DELETE
+[2022.06.09-16.13.51:145][ 58]Cmd: ACTOR DELETE
+[2022.06.09-16.13.51:180][ 58]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-16.13.51:187][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.06.09-16.13.51:188][ 58]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.06.09-16.13.54:455][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConstructionPylons_01f8)
+[2022.06.09-16.13.55:202][294]Cmd: DELETE
+[2022.06.09-16.13.55:202][294]Cmd: ACTOR DELETE
+[2022.06.09-16.13.55:233][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-16.13.55:240][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.06.09-16.13.55:242][294]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2022.06.09-16.13.56:499][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConstructionPylons_01f)
+[2022.06.09-16.13.56:693][378]Cmd: DELETE
+[2022.06.09-16.13.56:693][378]Cmd: ACTOR DELETE
+[2022.06.09-16.13.56:725][378]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-16.13.56:731][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.06.09-16.13.56:732][378]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.06.09-16.14.23:780][502]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight9)
+[2022.06.09-16.14.32:613][ 21]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight10)
+[2022.06.09-16.15.57:349][267]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.09-16.16.02:054][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.06.09-16.16.02:087][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.06.09-16.16.03:201][534]LogSavePackage: Moving '../../../../../../Users/Albert/Desktop/LD_CombatMap/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/FirstPersonExampleMap45DB077F4C034DD12AA2CAB02FC3C5E1.tmp' to '../../../../../../Users/Albert/Desktop/LD_CombatMap/CombatMap_LevelDesign/CombatMap_LevelDesign/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.06.09-16.16.03:206][534]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 1.126
+[2022.06.09-16.16.03:232][534]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.06.09-16.16.03:232][534]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.06.09-16.16.22:687][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.06.09-16.16.23:844][342]LogSavePackage: Moving '../../../../../../Users/Albert/Desktop/LD_CombatMap/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/FirstPersonExampleMap0D2DF1F842D788517250FBAD3536236E.tmp' to '../../../../../../Users/Albert/Desktop/LD_CombatMap/CombatMap_LevelDesign/CombatMap_LevelDesign/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.06.09-16.16.23:864][342]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.06.09-16.16.23:864][342]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
