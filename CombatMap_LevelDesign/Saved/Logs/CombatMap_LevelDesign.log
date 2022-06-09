@@ -1000,3 +1000,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.09-16.46.33:460][719]Cmd: EDIT COPY
 [2022.06.09-16.46.33:671][744]Cmd: EDIT PASTE
 [2022.06.09-16.46.36:905][122]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.49.08:567][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.06.09-16.49.08:695][ 49]LogSavePackage: Moving '../../../../../Github_Projects/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/FirstPersonExampleMap_Auto172D0ED6A411F4700CEB29BB9DC6D593F.tmp' to '../../../../../Github_Projects/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2022.06.09-16.49.08:697][ 49]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.135
+[2022.06.09-16.49.08:697][ 49]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.135
+[2022.06.09-16.53.49:435][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.06.09-16.53.49:559][905]LogSavePackage: Moving '../../../../../Github_Projects/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/FirstPersonExampleMap17ED385E4C9F6582C7C5F49C329BA3CB.tmp' to '../../../../../Github_Projects/CombatMap_LevelDesign/CombatMap_LevelDesign/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.06.09-16.53.49:574][905]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.06.09-16.53.49:574][905]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.06.09-16.53.56:821][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RocketLauncherB_Ammo2)
+[2022.06.09-16.53.59:109][ 29]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Rocket_launcher_B)
+[2022.06.09-16.53.59:939][125]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RocketLauncherB_Ammo2)
+[2022.06.09-16.54.00:682][212]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Boxes_01a)
+[2022.06.09-16.54.01:439][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RocketLauncherB_Ammo4)
+[2022.06.09-16.54.12:203][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.06.09-16.54.12:328][230]LogSavePackage: Moving '../../../../../Github_Projects/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/FirstPersonExampleMapAE5F57944C3793651FD5309000A53572.tmp' to '../../../../../Github_Projects/CombatMap_LevelDesign/CombatMap_LevelDesign/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.06.09-16.54.12:340][230]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.06.09-16.54.12:340][230]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
