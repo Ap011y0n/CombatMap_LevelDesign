@@ -2681,3 +2681,200 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.09-15.51.32:669][  1]LogSavePackage: Moving '../../../../../../Users/Albert/Desktop/LD_CombatMap/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/FirstPersonExampleMap_Auto27100929546C3DB428D5439A801138D68.tmp' to '../../../../../../Users/Albert/Desktop/LD_CombatMap/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
 [2022.06.09-15.51.32:672][  1]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.096
 [2022.06.09-15.51.32:672][  1]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.096
+[2022.06.09-15.52.25:718][730]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.09-15.52.33:522][192]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.09-15.55.27:733][924]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.06.09-15.55.28:586][973]Cmd: DELETE
+[2022.06.09-15.55.28:586][973]Cmd: ACTOR DELETE
+[2022.06.09-15.55.28:617][973]LogEditorActor: Deleted Actor: PointLight
+[2022.06.09-15.55.28:625][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.06.09-15.55.28:629][973]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.06.09-15.55.29:856][ 47]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.06.09-15.55.57:878][684]Cmd: DELETE
+[2022.06.09-15.55.57:878][684]Cmd: ACTOR DELETE
+[2022.06.09-15.55.57:911][684]LogEditorActor: Deleted Actor: RectLight
+[2022.06.09-15.55.57:919][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.06.09-15.55.57:922][684]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2022.06.09-15.56.02:197][938]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.06.09-15.56.03:278][  0]Cmd: DELETE
+[2022.06.09-15.56.03:278][  0]Cmd: ACTOR DELETE
+[2022.06.09-15.56.03:311][  0]LogEditorActor: Deleted Actor: SpotLight
+[2022.06.09-15.56.03:318][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.06.09-15.56.03:319][  0]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.06.09-15.56.25:938][345]Cmd: EDIT COPY
+[2022.06.09-15.56.26:139][357]Cmd: EDIT PASTE
+[2022.06.09-15.56.38:026][ 65]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.06.09-15.57.36:724][548]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2022.06.09-15.57.36:727][548]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.09-15.57.40:890][794]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight)
+[2022.06.09-15.57.58:953][861]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.06.09-15.57.58:953][861]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.09-15.57.59:951][919]Cmd: DELETE
+[2022.06.09-15.57.59:951][919]Cmd: ACTOR DELETE
+[2022.06.09-15.57.59:986][919]LogEditorActor: Deleted Actor: PointLight
+[2022.06.09-15.57.59:996][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.06.09-15.58.00:001][919]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2022.06.09-15.58.00:828][968]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2022.06.09-15.58.00:929][972]Cmd: DELETE
+[2022.06.09-15.58.00:929][972]Cmd: ACTOR DELETE
+[2022.06.09-15.58.00:962][972]LogEditorActor: Deleted Actor: PointLight
+[2022.06.09-15.58.00:969][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.06.09-15.58.00:970][972]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.06.09-15.58.22:501][251]Cmd: TRANSACTION UNDO
+[2022.06.09-15.58.22:501][251]LogEditorTransaction: Undo Edit Attenuation Radius
+[2022.06.09-15.58.38:156][165]Cmd: TRANSACTION UNDO
+[2022.06.09-15.58.38:156][165]LogEditorTransaction: Undo Edit Inner Cone Angle
+[2022.06.09-15.59.07:485][889]Cmd: EDIT COPY
+[2022.06.09-15.59.08:484][948]Cmd: EDIT PASTE
+[2022.06.09-15.59.08:484][948]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.09-15.59.20:663][669]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight)
+[2022.06.09-15.59.23:574][840]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.06.09-15.59.24:046][867]Cmd: EDIT COPY
+[2022.06.09-15.59.24:246][879]Cmd: EDIT PASTE
+[2022.06.09-15.59.31:235][291]Cmd: EDIT COPY
+[2022.06.09-15.59.31:420][302]Cmd: EDIT PASTE
+[2022.06.09-15.59.41:536][903]Cmd: EDIT COPY
+[2022.06.09-15.59.41:753][916]Cmd: EDIT PASTE
+[2022.06.09-15.59.50:990][461]Cmd: EDIT COPY
+[2022.06.09-15.59.51:209][474]Cmd: EDIT PASTE
+[2022.06.09-16.00.15:970][948]Cmd: DELETE
+[2022.06.09-16.00.15:970][948]Cmd: ACTOR DELETE
+[2022.06.09-16.00.16:005][948]LogEditorActor: Deleted Actor: SpotLight
+[2022.06.09-16.00.16:015][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.06.09-16.00.16:021][948]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2022.06.09-16.00.36:219][145]Cmd: TRANSACTION UNDO
+[2022.06.09-16.00.36:219][145]LogEditorTransaction: Undo Edit Source Length
+[2022.06.09-16.00.42:016][477]Cmd: TRANSACTION UNDO
+[2022.06.09-16.00.42:016][477]LogEditorTransaction: Undo Edit Temperature
+[2022.06.09-16.00.58:434][427]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.09-16.00.59:556][491]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.06.09-16.01.11:197][178]Cmd: EDIT COPY
+[2022.06.09-16.01.11:403][190]Cmd: EDIT PASTE
+[2022.06.09-16.01.42:904][ 39]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.06.09-16.01.50:817][505]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2022.06.09-16.01.51:577][548]Cmd: DELETE
+[2022.06.09-16.01.51:577][548]Cmd: ACTOR DELETE
+[2022.06.09-16.01.51:611][548]LogEditorActor: Deleted Actor: PointLight
+[2022.06.09-16.01.51:620][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.06.09-16.01.51:624][548]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2022.06.09-16.01.52:729][613]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.06.09-16.01.53:470][655]Cmd: EDIT COPY
+[2022.06.09-16.01.53:672][667]Cmd: EDIT PASTE
+[2022.06.09-16.01.55:950][800]Cmd: TRANSACTION UNDO
+[2022.06.09-16.01.55:950][800]LogEditorTransaction: Undo Move Actors
+[2022.06.09-16.02.12:431][749]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2022.06.09-16.02.12:666][760]Cmd: EDIT COPY
+[2022.06.09-16.02.12:890][773]Cmd: EDIT PASTE
+[2022.06.09-16.02.21:221][258]Cmd: DELETE
+[2022.06.09-16.02.21:221][258]Cmd: ACTOR DELETE
+[2022.06.09-16.02.21:254][258]LogEditorActor: Deleted Actor: PointLight
+[2022.06.09-16.02.21:262][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.06.09-16.02.21:265][258]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2022.06.09-16.02.24:353][443]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2022.06.09-16.02.25:337][499]Cmd: EDIT COPY
+[2022.06.09-16.02.25:539][511]Cmd: EDIT PASTE
+[2022.06.09-16.03.01:086][626]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.06.09-16.03.01:726][662]Cmd: EDIT COPY
+[2022.06.09-16.03.02:499][708]Cmd: EDIT PASTE
+[2022.06.09-16.03.08:582][ 56]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.03.26:498][106]Cmd: EDIT COPY
+[2022.06.09-16.03.26:785][122]Cmd: EDIT PASTE
+[2022.06.09-16.04.03:425][185]Cmd: TRANSACTION UNDO
+[2022.06.09-16.04.03:425][185]LogEditorTransaction: Undo Scale Actors
+[2022.06.09-16.04.19:110][ 42]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2022.06.09-16.04.19:711][ 75]Cmd: EDIT COPY
+[2022.06.09-16.04.20:116][ 99]Cmd: EDIT PASTE
+[2022.06.09-16.04.37:100][ 84]Cmd: EDIT COPY
+[2022.06.09-16.04.37:300][ 96]Cmd: EDIT PASTE
+[2022.06.09-16.04.43:194][443]Cmd: EDIT COPY
+[2022.06.09-16.04.43:397][455]Cmd: EDIT PASTE
+[2022.06.09-16.04.49:051][785]Cmd: EDIT COPY
+[2022.06.09-16.04.49:238][796]Cmd: EDIT PASTE
+[2022.06.09-16.04.55:122][137]Cmd: EDIT COPY
+[2022.06.09-16.04.55:311][148]Cmd: EDIT PASTE
+[2022.06.09-16.05.11:324][ 92]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2022.06.09-16.05.13:037][191]Cmd: EDIT COPY
+[2022.06.09-16.05.13:258][204]Cmd: EDIT PASTE
+[2022.06.09-16.05.30:134][199]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight9)
+[2022.06.09-16.05.30:345][209]Cmd: EDIT COPY
+[2022.06.09-16.05.30:544][221]Cmd: EDIT PASTE
+[2022.06.09-16.05.39:192][727]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight7)
+[2022.06.09-16.05.39:453][740]Cmd: EDIT COPY
+[2022.06.09-16.05.41:666][871]Cmd: EDIT PASTE
+[2022.06.09-16.05.59:187][898]Cmd: EDIT COPY
+[2022.06.09-16.05.59:439][913]Cmd: EDIT PASTE
+[2022.06.09-16.06.06:829][347]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2022.06.09-16.06.07:639][394]Cmd: EDIT COPY
+[2022.06.09-16.06.08:859][466]Cmd: EDIT PASTE
+[2022.06.09-16.06.10:494][560]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.06.27:574][565]Cmd: EDIT COPY
+[2022.06.09-16.06.27:792][578]Cmd: EDIT PASTE
+[2022.06.09-16.06.34:048][942]Cmd: TRANSACTION UNDO
+[2022.06.09-16.06.34:048][942]LogEditorTransaction: Undo Move Actors
+[2022.06.09-16.06.45:682][606]Cmd: EDIT COPY
+[2022.06.09-16.06.45:898][619]Cmd: EDIT PASTE
+[2022.06.09-16.06.51:963][968]Cmd: EDIT COPY
+[2022.06.09-16.06.52:145][979]Cmd: EDIT PASTE
+[2022.06.09-16.07.20:895][737]Cmd: EDIT COPY
+[2022.06.09-16.07.21:179][754]Cmd: EDIT PASTE
+[2022.06.09-16.07.33:274][470]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight12)
+[2022.06.09-16.07.33:368][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.06.09-16.07.34:621][471]LogSavePackage: Moving '../../../../../../Users/Albert/Desktop/LD_CombatMap/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/FirstPersonExampleMap_Auto3A38F776244E22E9547508B8FC6050625.tmp' to '../../../../../../Users/Albert/Desktop/LD_CombatMap/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2022.06.09-16.07.34:623][471]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.268
+[2022.06.09-16.07.34:623][471]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.268
+[2022.06.09-16.07.37:442][634]Cmd: EDIT PASTE
+[2022.06.09-16.07.38:889][714]Cmd: TRANSACTION UNDO
+[2022.06.09-16.07.38:889][714]LogEditorTransaction: Undo Paste
+[2022.06.09-16.07.40:274][773]Cmd: EDIT COPY
+[2022.06.09-16.07.40:474][785]Cmd: EDIT PASTE
+[2022.06.09-16.07.42:812][918]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.08.07:035][335]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight10)
+[2022.06.09-16.08.07:863][382]Cmd: EDIT COPY
+[2022.06.09-16.08.12:285][645]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight14)
+[2022.06.09-16.08.12:662][665]Cmd: EDIT COPY
+[2022.06.09-16.08.12:978][684]Cmd: EDIT PASTE
+[2022.06.09-16.08.33:814][885]Cmd: DELETE
+[2022.06.09-16.08.33:815][885]Cmd: ACTOR DELETE
+[2022.06.09-16.08.33:848][885]LogEditorActor: Deleted Actor: PointLight
+[2022.06.09-16.08.33:856][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.06.09-16.08.33:861][885]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2022.06.09-16.08.35:124][961]Cmd: TRANSACTION UNDO
+[2022.06.09-16.08.35:124][961]LogEditorTransaction: Undo Delete Actors
+[2022.06.09-16.08.37:512][ 83]Cmd: TRANSACTION UNDO
+[2022.06.09-16.08.37:512][ 83]LogEditorTransaction: Undo Move Actors
+[2022.06.09-16.08.38:588][146]Cmd: DELETE
+[2022.06.09-16.08.38:588][146]Cmd: ACTOR DELETE
+[2022.06.09-16.08.38:620][146]LogEditorActor: Deleted Actor: PointLight
+[2022.06.09-16.08.38:628][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.06.09-16.08.38:630][146]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.06.09-16.08.42:749][389]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight9)
+[2022.06.09-16.08.47:650][677]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight10)
+[2022.06.09-16.08.54:539][ 84]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight14)
+[2022.06.09-16.09.12:018][618]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight11)
+[2022.06.09-16.09.12:365][636]Cmd: EDIT COPY
+[2022.06.09-16.09.12:567][648]Cmd: EDIT PASTE
+[2022.06.09-16.09.14:457][757]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.09.16:413][873]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.09.24:138][319]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.09.26:478][458]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.09.27:466][515]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.09.34:076][908]Cmd: EDIT COPY
+[2022.06.09-16.09.34:342][924]Cmd: EDIT PASTE
+[2022.06.09-16.09.40:445][280]Cmd: TRANSACTION UNDO
+[2022.06.09-16.09.40:445][280]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.09-16.09.40:932][291]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight13)
+[2022.06.09-16.09.45:189][530]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight14)
+[2022.06.09-16.09.46:022][577]Cmd: EDIT COPY
+[2022.06.09-16.09.46:239][590]Cmd: EDIT PASTE
+[2022.06.09-16.09.50:765][855]Cmd: EDIT COPY
+[2022.06.09-16.09.50:984][868]Cmd: EDIT PASTE
+[2022.06.09-16.10.09:186][930]Cmd: EDCALLBACK SURFPROPS
+[2022.06.09-16.10.11:013][ 38]Cmd: TRANSACTION UNDO
+[2022.06.09-16.10.11:013][ 38]LogEditorTransaction: Undo Select Surface
+[2022.06.09-16.10.25:051][722]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight14)
+[2022.06.09-16.10.25:440][742]Cmd: EDIT COPY
+[2022.06.09-16.10.25:676][756]Cmd: EDIT PASTE
+[2022.06.09-16.11.02:895][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.06.09-16.11.04:172][708]LogSavePackage: Moving '../../../../../../Users/Albert/Desktop/LD_CombatMap/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/FirstPersonExampleMap8207618247B5F8BB024A7CB0727EF173.tmp' to '../../../../../../Users/Albert/Desktop/LD_CombatMap/CombatMap_LevelDesign/CombatMap_LevelDesign/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.06.09-16.11.04:206][708]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.06.09-16.11.04:206][708]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
