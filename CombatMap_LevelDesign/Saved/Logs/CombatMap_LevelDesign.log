@@ -2878,3 +2878,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.09-16.11.04:172][708]LogSavePackage: Moving '../../../../../../Users/Albert/Desktop/LD_CombatMap/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/FirstPersonExampleMap8207618247B5F8BB024A7CB0727EF173.tmp' to '../../../../../../Users/Albert/Desktop/LD_CombatMap/CombatMap_LevelDesign/CombatMap_LevelDesign/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2022.06.09-16.11.04:206][708]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2022.06.09-16.11.04:206][708]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.06.09-16.12.21:276][478]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight17)
