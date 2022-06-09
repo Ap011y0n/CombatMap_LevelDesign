@@ -2124,3 +2124,244 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.09-15.27.52:683][337]LogOnline: OSS: Creating online subsystem instance for: :Context_4
 [2022.06.09-15.27.52:686][337]PIE: Server logged in
 [2022.06.09-15.27.52:687][337]PIE: Play in editor total start time 0.169 seconds.
+[2022.06.09-15.28.55:474][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.09-15.28.55:474][633]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.06.09-15.28.55:474][633]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.09-15.28.55:475][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-15.28.55:484][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.09-15.28.55:491][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-15.28.55:498][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.09-15.28.55:498][633]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.09-15.28.55:499][633]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.09-15.28.55:529][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.06.09-15.28.55:556][634]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.06.09-15.28.58:068][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConcretePipe_8)
+[2022.06.09-15.28.58:706][817]Cmd: DELETE
+[2022.06.09-15.28.58:706][817]Cmd: ACTOR DELETE
+[2022.06.09-15.28.58:741][817]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-15.28.58:749][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.06.09-15.28.58:750][817]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.06.09-15.29.11:987][592]LogActorFactory: Actor Factory created SM_WaterTank_01a
+[2022.06.09-15.29.12:864][642]LogActorFactory: Actor Factory created SM_WaterTank_01a
+[2022.06.09-15.29.13:791][694]Cmd: DELETE
+[2022.06.09-15.29.13:793][694]Cmd: ACTOR DELETE
+[2022.06.09-15.29.13:827][694]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-15.29.13:836][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.06.09-15.29.13:838][694]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2022.06.09-15.29.16:337][833]LogStaticMesh: Building static mesh SM_RollerMachine_Wheel_B_01a...
+[2022.06.09-15.29.16:394][833]LogStaticMesh: Built static mesh [0.06s] /Game/Construction_VOL2/Meshes/SM_RollerMachine_Wheel_B_01a.SM_RollerMachine_Wheel_B_01a
+[2022.06.09-15.29.16:433][833]LogActorFactory: Actor Factory created SM_RollerMachine_Wheel_B_01a
+[2022.06.09-15.29.17:209][879]LogActorFactory: Actor Factory created SM_RollerMachine_Wheel_B_01a
+[2022.06.09-15.29.18:087][928]Cmd: DELETE
+[2022.06.09-15.29.18:088][928]Cmd: ACTOR DELETE
+[2022.06.09-15.29.18:122][928]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-15.29.18:130][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.06.09-15.29.18:131][928]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.06.09-15.29.21:859][135]LogActorFactory: Actor Factory created SM_Portapotty_01
+[2022.06.09-15.29.22:696][184]LogActorFactory: Actor Factory created SM_Portapotty_01
+[2022.06.09-15.29.23:457][226]Cmd: DELETE
+[2022.06.09-15.29.23:457][226]Cmd: ACTOR DELETE
+[2022.06.09-15.29.23:490][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-15.29.23:498][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.06.09-15.29.23:500][226]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.06.09-15.29.26:706][402]LogActorFactory: Actor Factory created SM_PaintBucket_01
+[2022.06.09-15.29.27:183][429]LogActorFactory: Actor Factory created SM_PaintBucket_01
+[2022.06.09-15.29.28:109][481]Cmd: DELETE
+[2022.06.09-15.29.28:109][481]Cmd: ACTOR DELETE
+[2022.06.09-15.29.28:143][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-15.29.28:150][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.06.09-15.29.28:153][481]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.06.09-15.29.29:342][541]LogActorFactory: Actor Factory created SM_FreightContainer_01
+[2022.06.09-15.29.30:714][622]LogActorFactory: Actor Factory created SM_FreightContainer_01
+[2022.06.09-15.29.31:143][644]Cmd: DELETE
+[2022.06.09-15.29.31:145][644]Cmd: ACTOR DELETE
+[2022.06.09-15.29.31:180][644]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-15.29.31:188][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.06.09-15.29.31:189][644]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2022.06.09-15.29.51:152][758]LogActorFactory: Actor Factory created SM_Roller_Machine_01a
+[2022.06.09-15.29.51:828][797]LogActorFactory: Actor Factory created SM_Roller_Machine_01a
+[2022.06.09-15.29.53:132][866]Cmd: DELETE
+[2022.06.09-15.29.53:133][866]Cmd: ACTOR DELETE
+[2022.06.09-15.29.53:169][866]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-15.29.53:178][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.06.09-15.29.53:181][866]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2022.06.09-15.29.53:661][890]LogStaticMesh: Building static mesh SM_RollerMachine_Base_01a...
+[2022.06.09-15.29.53:833][890]LogStaticMesh: Built static mesh [0.17s] /Game/Construction_VOL2/Meshes/SM_RollerMachine_Base_01a.SM_RollerMachine_Base_01a
+[2022.06.09-15.29.53:883][890]LogActorFactory: Actor Factory created SM_RollerMachine_Base_01a
+[2022.06.09-15.29.54:477][924]LogActorFactory: Actor Factory created SM_RollerMachine_Base_01a
+[2022.06.09-15.29.54:664][932]Cmd: DELETE
+[2022.06.09-15.29.54:665][932]Cmd: ACTOR DELETE
+[2022.06.09-15.29.54:699][932]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-15.29.54:707][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.06.09-15.29.54:708][932]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.06.09-15.30.03:289][412]LogActorFactory: Actor Factory created SM_LightGenerator_01a
+[2022.06.09-15.30.04:412][478]LogActorFactory: Actor Factory created SM_LightGenerator_01a
+[2022.06.09-15.30.05:161][519]Cmd: DELETE
+[2022.06.09-15.30.05:163][519]Cmd: ACTOR DELETE
+[2022.06.09-15.30.05:195][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-15.30.05:202][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.06.09-15.30.05:205][519]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.06.09-15.30.06:538][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Spool_01a)
+[2022.06.09-15.30.09:030][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Spool_01a)
+[2022.06.09-15.30.09:075][742]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.06.09-15.30.11:465][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Spool_01a)
+[2022.06.09-15.30.23:611][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Spool_01a)
+[2022.06.09-15.30.28:651][803]LogTexture: Display: Building textures: TX_Spool_02a_RMA (OODLE_AutoDXT, 2048X2048)
+[2022.06.09-15.30.28:651][803]LogTexture: Display: Building textures: TX_Spool_02a_ALB (OODLE_AutoDXT, 2048X2048)
+[2022.06.09-15.30.28:651][803]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.09-15.30.28:651][803]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.09-15.30.28:651][803]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.09-15.30.28:651][803]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.09-15.30.28:651][803]LogTexture: Display: Building textures: TX_Spool_02a_NRM (OODLE_BC5, 2048X2048)
+[2022.06.09-15.30.28:651][803]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.06.09-15.30.28:651][803]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.06.09-15.30.28:651][803]LogStaticMesh: Building static mesh SM_Spool_01a...
+[2022.06.09-15.30.28:695][803]LogStaticMesh: Built static mesh [0.04s] /Game/Construction_VOL2/Meshes/SM_Spool_01a.SM_Spool_01a
+[2022.06.09-15.30.28:734][803]LogActorFactory: Actor Factory created SM_Spool_01a
+[2022.06.09-15.30.30:686][918]LogActorFactory: Actor Factory created SM_Spool_01a
+[2022.06.09-15.30.32:313][ 12]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-15.30.32:380][ 16]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-15.30.38:084][356]Cmd: TRANSACTION UNDO
+[2022.06.09-15.30.38:084][356]LogEditorTransaction: Undo Scale Actors
+[2022.06.09-15.30.39:480][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Spool_01a2)
+[2022.06.09-15.30.46:918][862]Cmd: TRANSACTION UNDO
+[2022.06.09-15.30.46:918][862]LogEditorTransaction: Undo Scale Actors
+[2022.06.09-15.30.48:558][944]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.SM_Spool_01a2_29.StaticMeshComponent0)
+[2022.06.09-15.30.48:689][952]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.SM_Spool_01a2_29.StaticMeshComponent0)
+[2022.06.09-15.31.02:288][760]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Spool_01a)
+[2022.06.09-15.31.04:520][891]Cmd: TRANSACTION UNDO
+[2022.06.09-15.31.04:521][891]LogEditorTransaction: Undo Move Actors
+[2022.06.09-15.31.07:060][ 21]LogActorFactory: Actor Factory created SM_Spool_01a
+[2022.06.09-15.31.07:576][ 50]LogActorFactory: Actor Factory created SM_Spool_01a
+[2022.06.09-15.31.08:143][ 81]Cmd: TRANSACTION UNDO
+[2022.06.09-15.31.08:143][ 81]LogEditorTransaction: Undo Create Actors
+[2022.06.09-15.31.08:732][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Spool_01a2)
+[2022.06.09-15.31.11:262][244]Cmd: TRANSACTION UNDO
+[2022.06.09-15.31.11:262][244]LogEditorTransaction: Undo Move Actors
+[2022.06.09-15.31.17:713][613]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-15.31.26:013][106]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Spool_01a)
+[2022.06.09-15.31.28:529][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Spool_01a2)
+[2022.06.09-15.31.40:997][989]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Spool_01a)
+[2022.06.09-15.31.46:479][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Spool_01a2)
+[2022.06.09-15.31.51:826][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Spool_01a)
+[2022.06.09-15.31.52:155][646]Cmd: EDIT COPY
+[2022.06.09-15.31.52:340][657]Cmd: EDIT PASTE
+[2022.06.09-15.31.55:227][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Spool_01a2)
+[2022.06.09-15.31.55:610][847]Cmd: EDIT COPY
+[2022.06.09-15.31.55:862][862]Cmd: EDIT PASTE
+[2022.06.09-15.32.13:508][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConcreteBag_04a)
+[2022.06.09-15.32.17:681][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConcreteBag_03a)
+[2022.06.09-15.32.19:000][230]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_ConcreteBag_05a2)
+[2022.06.09-15.32.19:921][280]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_ConcreteBag_01a)
+[2022.06.09-15.32.20:333][302]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_ConcreteBag_05a2)
+[2022.06.09-15.32.21:112][346]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_ConcreteBag_04a)
+[2022.06.09-15.32.32:519][ 12]LogActorFactory: Actor Factory created SM_RollerMachine_Wheel_B_01a
+[2022.06.09-15.32.33:336][ 56]LogActorFactory: Actor Factory created SM_RollerMachine_Wheel_B_01a
+[2022.06.09-15.32.43:973][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RollerMachine_Wheel_B_01a)
+[2022.06.09-15.32.49:816][ 21]Cmd: EDIT COPY
+[2022.06.09-15.32.49:999][ 32]Cmd: EDIT PASTE
+[2022.06.09-15.32.52:625][186]Cmd: EDIT COPY
+[2022.06.09-15.32.52:774][195]Cmd: EDIT PASTE
+[2022.06.09-15.32.54:664][304]Cmd: EDIT COPY
+[2022.06.09-15.32.54:855][315]Cmd: EDIT PASTE
+[2022.06.09-15.33.03:687][835]Cmd: EDIT COPY
+[2022.06.09-15.33.03:971][852]Cmd: EDIT PASTE
+[2022.06.09-15.33.14:381][451]LogActorFactory: Actor Factory created SM_PaintBucket_02
+[2022.06.09-15.33.15:936][543]LogActorFactory: Actor Factory created SM_PaintBucket_02
+[2022.06.09-15.33.19:286][714]LogActorFactory: Actor Factory created SM_Crate_Base_01a
+[2022.06.09-15.33.22:933][930]LogActorFactory: Actor Factory created SM_Crate_Base_01a
+[2022.06.09-15.33.33:998][577]LogStaticMesh: Building static mesh SM_Crate_Lid_01a...
+[2022.06.09-15.33.34:039][577]LogStaticMesh: Built static mesh [0.04s] /Game/Construction_VOL1/Meshes/SM_Crate_Lid_01a.SM_Crate_Lid_01a
+[2022.06.09-15.33.34:102][578]LogActorFactory: Actor Factory created SM_Crate_Lid_01a
+[2022.06.09-15.33.36:020][690]LogActorFactory: Actor Factory created SM_Crate_Lid_01a
+[2022.06.09-15.33.47:139][338]LogActorFactory: Actor Factory created SM_PlasticBarrel_01a
+[2022.06.09-15.33.48:928][444]LogActorFactory: Actor Factory created SM_PlasticBarrel_01a
+[2022.06.09-15.33.50:285][521]Cmd: EDIT COPY
+[2022.06.09-15.33.50:496][533]Cmd: EDIT PASTE
+[2022.06.09-15.33.55:795][843]Cmd: EDIT COPY
+[2022.06.09-15.33.55:984][854]Cmd: EDIT PASTE
+[2022.06.09-15.33.59:682][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PlasticBarrel_01a8)
+[2022.06.09-15.34.00:132][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PlasticBarrel_01a7)
+[2022.06.09-15.34.00:574][117]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_PlasticBarrel_01a9)
+[2022.06.09-15.34.04:041][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PlasticBarrel_01a8)
+[2022.06.09-15.34.23:110][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConcreteBag_03a)
+[2022.06.09-15.34.24:198][182]Cmd: TRANSACTION UNDO
+[2022.06.09-15.34.24:198][182]LogEditorTransaction: Undo Select Brush Surface
+[2022.06.09-15.34.24:663][192]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_ConcreteBag_05a2)
+[2022.06.09-15.34.25:643][246]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_ConcreteBag_01a)
+[2022.06.09-15.34.28:886][428]Cmd: TRANSACTION UNDO
+[2022.06.09-15.34.28:886][428]LogEditorTransaction: Undo Move Actors
+[2022.06.09-15.34.29:854][463]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_ConcreteBag_04a)
+[2022.06.09-15.34.37:394][886]Cmd: TRANSACTION UNDO
+[2022.06.09-15.34.37:394][886]LogEditorTransaction: Undo Move Actors
+[2022.06.09-15.34.38:094][901]Cmd: TRANSACTION UNDO
+[2022.06.09-15.34.38:094][901]LogEditorTransaction: Undo Move Actors
+[2022.06.09-15.34.40:502][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConcreteBag_03a)
+[2022.06.09-15.34.41:312][ 72]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_ConcreteBag_04a)
+[2022.06.09-15.34.42:818][159]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_ConcreteBag_05a2)
+[2022.06.09-15.34.43:547][200]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_ConcreteBag_01a)
+[2022.06.09-15.35.16:747][161]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.09-15.35.16:755][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.09-15.35.16:755][161]PIE: New page: PIE session: FirstPersonExampleMap (Jun 9, 2022, 7:35:16 PM)
+[2022.06.09-15.35.16:755][161]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.06.09-15.35.16:842][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087325s)
+[2022.06.09-15.35.16:843][161]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.06.09-15.35.16:843][161]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2022.06.09-15.35.16:843][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.088835s)
+[2022.06.09-15.35.16:853][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.06.09-15.35.16:862][161]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.06.09-15.35.16:862][161]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.09-15.35.16:862][161]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.09-15.35.16:862][161]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.09-15.35.16:862][161]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.09-15.35.16:862][161]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.09-15.35.16:862][161]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.09-15.35.16:862][161]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.09-15.35.16:862][161]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.09-15.35.16:863][161]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.09-15.35.16:863][161]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.09-15.35.16:863][161]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.09-15.35.16:863][161]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.09-15.35.16:870][161]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.09-15.35.16:870][161]LogAudioMixer: Display: 1: FrontRight
+[2022.06.09-15.35.16:901][161]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.06.09-15.35.16:901][161]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.09-15.35.16:901][161]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.09-15.35.16:902][161]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.09-15.35.16:902][161]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.09-15.35.16:902][161]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.09-15.35.16:902][161]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.09-15.35.16:903][161]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.09-15.35.16:903][161]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.09-15.35.16:903][161]LogInit: FAudioDevice initialized.
+[2022.06.09-15.35.16:903][161]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2022.06.09-15.35.16:912][161]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.06.09-15.35.16:920][161]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.06.09-17.35.16
+[2022.06.09-15.35.16:921][161]LogWorld: Bringing up level for play took: 0.007314
+[2022.06.09-15.35.16:921][161]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.06.09-15.35.16:924][161]PIE: Server logged in
+[2022.06.09-15.35.16:924][161]PIE: Play in editor total start time 0.172 seconds.
+[2022.06.09-15.36.03:013][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.09-15.36.03:013][920]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.06.09-15.36.03:013][920]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.09-15.36.03:014][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-15.36.03:024][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.09-15.36.03:037][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-15.36.03:043][920]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.09-15.36.03:044][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.09-15.36.03:044][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.09-15.36.03:075][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.09-15.36.03:079][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.06.09-15.36.03:116][921]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.06.09-15.36.12:028][451]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.09-15.36.13:843][558]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.09-15.36.17:542][756]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.09-15.36.24:124][144]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.09-15.36.50:267][527]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{7a8dd74f-9207-4420-8239-5b0cf46d05f1}.
+[2022.06.09-15.36.50:267][527]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.09-15.36.50:313][527]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.09-15.36.50:313][527]LogAudioMixer: Display: 1: FrontRight
+[2022.06.09-15.37.02:826][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.06.09-15.37.04:064][564]LogSavePackage: Moving '../../../../../../Users/Albert/Desktop/LD_CombatMap/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/FirstPersonExampleMap_Auto17439C3B24B8B67D851E11E8205D6100D.tmp' to '../../../../../../Users/Albert/Desktop/LD_CombatMap/CombatMap_LevelDesign/CombatMap_LevelDesign/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2022.06.09-15.37.04:067][564]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.247
+[2022.06.09-15.37.04:067][564]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.247
